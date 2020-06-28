@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contact_List</string>
+
+    <string-array name="Contacts">
+        <item>Contact 1</item>
+        <item>Contact 2</item>
+        <item>Contact 3</item>
+        <item>Contact 4</item>
+        <item>Contact 5</item>
+        <item>Contact 6</item>
+        <item>Contact 7</item>
+        <item>Contact 8</item>
+        <item>Contact 9</item>
+        <item>Contact 10</item>
+
+
+
+
+
+    </string-array>
+</resources>
